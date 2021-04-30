@@ -1,0 +1,43 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+        "title": "User Management System - API",
+        "version": "1.0",
+        "contact": {
+            "name": "@BeyondNet",
+            "email": "beyondnet.peru@gmail.com",
+            "url": "https://github.com/beyondnetPeru"
+        }
+    },
+    "servers": [{"url": "https://localhost:8080/api"}],
+    "components": {
+        "securitySchemes": {
+            "name": {
+                "type": "http",
+                "scheme": "bearer",
+                "bearerFormat": "JWT"
+            }
+        }
+    },
+    "paths": {
+        "/signin": {
+            "post": {
+                "description": "Login a user",
+                "parameters": [
+                    {
+                        "name": "email",
+                        "description": "Email registered",
+                        "required": true,
+                        "example": "admin@admin.com"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK"
+                    }
+                }
+            }
+        }
+    },
+    "security": [{"name": ["bearer"]}]
+}
