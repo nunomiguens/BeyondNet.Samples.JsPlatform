@@ -1,0 +1,5 @@
+https://vue-test-utils.vuejs.org/guides/getting-started.html
+https://vuetifyjs.com/
+https://www.chaijs.com/
+https://vue-test-utils.vuejs.org/api/selectors.html
+https://sinonjs.org/releases/latest/stubs/

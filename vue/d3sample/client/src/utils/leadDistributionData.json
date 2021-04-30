@@ -1,0 +1,76 @@
+{
+    "Total": 3,
+    "Data": [
+        {
+            "Id": "3f283bb6-ef9c-4e04-acd0-55f1da9eee88",
+            "IsSuccessful": false,
+            "Timeline": {
+                "Started": "2019-02-13T16:52:10.4198641+00:00",
+                "Ended": "2019-02-13T16:52:12.8458005+00:00",
+                "DurationOnMilliseconds": 2425.9364
+            },
+            "Source": {
+                "Code": "omp-humana-cuy",
+                "Afid": "12312",
+                "ExternalId": ""
+            },
+            "Target": {
+                "Campaign": "10002",
+                "Initiative": "10002"
+            }
+        },
+        {
+            "Distributions": [
+                {
+                    "Id": "363d0578-658b-4a92-aefa-8b17a6f97ded",
+                    "GroupId": "6222a188-a27f-47d2-a3b8-f816cdf53e38",
+                    "LeadId": "ae735875-5e80-4be7-85ce-6dbea14df015",
+                    "ExternalId": null,
+                    "Name": "CUY",
+                    "Endpoint": "https://qa.cuy.cignium.com/api/leadsimport",
+                    "Status": "TIMEOUT",
+                    "IsSuccessful": false,
+                    "Exception": "The operation has timed out.",
+                    "Request": "{\"Dial\":true,\"AttemptCounter\":0,\"Id\":\"ae735875-5e80-4be7-85ce-6dbea14df015\",\"MarketerId\":null,\"Score\":null,\"Afid\":\"\",\"Cid\":\"\",\"Person\":{\"FirstName\":\"TesProd\",\"LastName\":\"Antern\",\"MaidenName\":null,\"MiddleName\":\"L\",\"Gender\":\"M\",\"Weight\":null,\"Height\":null,\"HeightInches\":null,\"DateOfBirth\":\"$Person.DateOfBirth.ShortDate$\",\"EmailAddress\":\"jack.antern%40tranzact.net\",\"PhoneNo1\":\"201\",\"PhoneNo2\":\"651\",\"PhoneNo3\": \"5414\",\"PhoneNoExt\":null,\"AlternatePhoneNo1\":null,\"AlternatePhoneNo2\":null,\"AlternatePhoneNo3\":null,\"AlternatePhoneNoExt\":null,\"ProductOfInterest\":\"\",\"Address\":{\"Line1\":\"420+E+156th+St\",\"Line2\":\"Apt+B\",\"City\":\"Bronx\",\"State\":\"NY\",\"Zip\":\"10455\"}},\"Project\":{\"Code\":\"\"},\"Fields\":{\"income_range\":{\"Value\":\"\",\"IsEncrypted\":false}}}",
+                    "Response": "",
+                    "ParentId": "00000000-0000-0000-0000-000000000000",
+                    "Timeline": null
+                }
+            ],
+            "Id": "ae735875-5e80-4be7-85ce-6dbea14df015",
+            "IsSuccessful": true,
+            "Timeline": {
+                "Started": "2019-02-13T16:52:02.8167151+00:00",
+                "Ended": "2019-02-13T16:52:05.5296206+00:00",
+                "DurationOnMilliseconds": 2712.9055000000003
+            },
+            "Source": {
+                "Code": "omp-humana-cuy",
+                "Afid": "12312",
+                "ExternalId": ""
+            },
+            "Target": {
+                "Campaign": null,
+                "Initiative": null
+            }
+        },
+        {
+            "Id": "5792e8fd-28a6-44f4-b36c-e73030b1cc08",
+            "IsSuccessful": false,
+            "Timeline": {
+                "Started": "2019-02-13T16:52:06.0957957+00:00",
+                "Ended": "2019-02-13T16:52:09.3398482+00:00",
+                "DurationOnMilliseconds": 3244.0525
+            },
+            "Source": {
+                "Code": "omp-humana-cuy",
+                "Afid": "12312",
+                "ExternalId": ""
+            },
+            "Target": {
+                "Campaign": null,
+                "Initiative": null
+            }
+        }
+    ]
+}

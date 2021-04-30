@@ -1,0 +1,36 @@
+{
+  "name": "nodeservertemplate",
+  "version": "1.0.0",
+  "description": "Build NodeJS template to server projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "babel src -d dist",
+    "dev": "nodemon src/index.js --exec babel-node",
+    "postinstall": "npm run build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyondnetPeru/BeyondNet.NodeServerTemplate.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Alberto Arroyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyondnetPeru/BeyondNet.NodeServerTemplate/issues"
+  },
+  "homepage": "https://github.com/beyondnetPeru/BeyondNet.NodeServerTemplate#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/node": "^7.8.3",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.8.3",
+    "ramda": "^0.26.1"
+  }
+}

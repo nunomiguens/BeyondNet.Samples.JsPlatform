@@ -1,0 +1,1 @@
+export { getGreetingsPartial } from "./basic";

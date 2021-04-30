@@ -1,0 +1,28 @@
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.deps.json
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.runtimeconfig.json
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.runtimeconfig.dev.json
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.dll
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.csprojAssemblyReference.cache
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.csproj.CoreCompileInputs.cache
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorAssemblyInfo.cache
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorAssemblyInfo.cs
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.AssemblyInfoInputs.cache
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.AssemblyInfo.cs
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorTargetAssemblyInfo.cache
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.pdb
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.dll
+D:\Personal\Fuentes\BeyondNet\Vue\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.pdb
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.deps.json
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.runtimeconfig.json
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.runtimeconfig.dev.json
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.dll
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\bin\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.pdb
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.csprojAssemblyReference.cache
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorAssemblyInfo.cache
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorAssemblyInfo.cs
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.AssemblyInfoInputs.cache
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.AssemblyInfo.cs
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.RazorTargetAssemblyInfo.cache
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.dll
+E:\1. Personal\Fuentes\BeyondNet.Demo.Vue.git\source\server\BeyondNet.Demo.Vue.Api\obj\Debug\netcoreapp2.1\BeyondNet.Demo.Vue.Api.pdb

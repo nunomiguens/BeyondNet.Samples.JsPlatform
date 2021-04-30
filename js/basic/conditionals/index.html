@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Prototype Sample</title>
+  </head>
+  <body>
+    <script type="text/javascript" src="./app.js"></script>
+
+    <h1>Prototype Sample</h1>
+    <p>
+      We are going to print the "NAME" using the prototype function PrintName.
+    </p>
+
+    <input type="button" onclick="Print()" value="CLICK HERE" />
+
+    <script type="text/javascript">
+      function Print() {
+        var parent = new Parent("Ronald");
+        parent.PrintName();
+      }
+    </script>
+  </body>
+</html>
