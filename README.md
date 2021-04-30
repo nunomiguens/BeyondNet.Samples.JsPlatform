@@ -46,3 +46,7 @@ worked by me from courses, prototypes, etc.
 # [WebPack](https://webpack.js.org/)
 
 - **samples**, some samples using webpack.
+
+# Challenges
+
+- **Raintrap**, resolving raintrap algorithm.
