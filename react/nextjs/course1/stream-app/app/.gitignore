@@ -1,0 +1,7 @@
+.env
+node_modules
+.next
+.DS_Store
+*.graphql.d.ts
+*.graphqls.d.ts
+__generated__

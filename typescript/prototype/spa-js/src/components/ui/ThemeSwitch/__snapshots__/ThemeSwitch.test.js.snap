@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ThemeSwitch UI Component Rendering should matches the snapshot 1`] = `
+<styled.div>
+  <styled.div
+    className="active"
+  >
+    <Memo([object Object]) />
+  </styled.div>
+  <styled.div
+    className=""
+  >
+    <Memo([object Object]) />
+  </styled.div>
+  <Styled(WithStyles(ForwardRef(Switch)))
+    checked={true}
+    color="default"
+    inputProps={
+      Object {
+        "aria-label": "Change Theme",
+      }
+    }
+  />
+</styled.div>
+`;

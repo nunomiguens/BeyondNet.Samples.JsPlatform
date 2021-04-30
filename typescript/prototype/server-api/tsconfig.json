@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "rootDir": "./src",
+        /* Strict Type-Checking Options */
+        "strict": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "noImplicitReturns": true,
+        "strictNullChecks": true,
+        /* Module Resolution Options */
+        "moduleResolution": "node",
+        "baseUrl": "./src",
+        "esModuleInterop": true,
+        /* Advanced Options */
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "lib": ["es2015", "DOM", "es6"],
+        "types": ["reflect-metadata", "jest"]
+    },
+    "compileOnSave": false,
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+}

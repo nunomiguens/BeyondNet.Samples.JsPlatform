@@ -1,0 +1,5 @@
+export { default as HomePage } from './home'
+export { default as NotFoundPage } from './notFound'
+export { default as UnauthorizedPage } from './unauthorized'
+export { default as PrivatePage } from './privatePage'
+export { default as PublicPage } from './publicPage'

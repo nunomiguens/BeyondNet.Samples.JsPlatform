@@ -1,0 +1,23 @@
+:root {
+  --primaryColor: green;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.global {
+  color: green;
+  text-transform: capitalize;
+}
+.first {
+  letter-spacing: 5px;
+  color: var(--primaryColor);
+}
+/* some other css */
+.second {
+  text-transform: uppercase;
+  color: var(--primaryColor);
+}

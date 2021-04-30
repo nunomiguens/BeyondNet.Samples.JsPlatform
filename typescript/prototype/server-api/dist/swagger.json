@@ -1,0 +1,29 @@
+{
+    "components": {
+        "examples": {},
+        "headers": {},
+        "parameters": {},
+        "requestBodies": {},
+        "responses": {},
+        "schemas": {},
+        "securitySchemes": {}
+    },
+    "info": {
+        "title": "bruce-api",
+        "version": "1.0.0",
+        "description": "Bruce Backend",
+        "license": {
+            "name": "MIT"
+        },
+        "contact": {
+            "name": "beyondnet"
+        }
+    },
+    "openapi": "3.0.0",
+    "paths": {},
+    "servers": [
+        {
+            "url": "/"
+        }
+    ]
+}
