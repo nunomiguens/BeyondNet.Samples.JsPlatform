@@ -10,7 +10,7 @@
         "clean": "rm -rf coverage src/**/*.js src/**/*.map",
         "test": "jest --coverage",
         "test:watch": "jest --coverage --watchAll",
-        "start": "concurrently \"nodemon\" ",
+        "start": "nodemon ",
         "swagger": "tsoa spec",
         "lint": "eslint . --ext .ts"
     },
