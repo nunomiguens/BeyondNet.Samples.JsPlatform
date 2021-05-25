@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React from 'react'
 import { Switch, withRouter, Redirect, RouteComponentProps } from 'react-router-dom'
 import { connect } from 'react-redux'
 import { StylesProvider, ThemeProvider } from '@material-ui/styles'
@@ -89,9 +89,4 @@ const mapDispatchToProps = (dispatch: ReduxDispatch): IMapDispatchToProps => {
   }
 }
 
-export const AppContainer = withRouter(
-  connect(
-    mapStateToProps,
-    mapDispatchToProps,
-  )(App),
-)
+export const AppContainer = withRouter(connect(mapStateToProps, mapDispatchToProps)(App))
