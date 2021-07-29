@@ -19,7 +19,9 @@ export class CoffeesService {
     private readonly flavorRepository: Repository<Flavor>,
     private readonly connection: Connection,
     @Inject(COFFEE_BRANDS) coffeeBrands: string[],
-  ) {}
+  ) {
+    console.log(coffeeBrands);
+  }
 
   async findAll({ offset, limit }: PaginationQueryDto) {
     return await this.coffeeRepository.find({
