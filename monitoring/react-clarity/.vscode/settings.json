@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/c3b1b156-8211-45bd-aa0a-de959d706ed9/resourceGroups/mysandbox/providers/Microsoft.Web/sites/lmkt-appinsight",
+  "appService.deploySubpath": "."
+}
